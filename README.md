@@ -3,25 +3,26 @@
 ![image](https://github.com/7alexandree7/profile-dark-mode-light/assets/103005378/daf37ef3-2df4-49ef-bc6b-82a6f1516199)
 ![image](https://github.com/7alexandree7/profile-dark-mode-light/assets/103005378/2a9ecd69-0866-4493-a920-b52c8b850385)
 
-<p> align="center"
+
+<p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
-<p> align="center"
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p> align="center"
+<p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
-<p> align="center"
+<p align="center">
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
