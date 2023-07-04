@@ -1,9 +1,6 @@
+<h1 align="center"> DevLinks </h1>
 ![image](https://github.com/7alexandree7/profile-dark-mode-light/assets/103005378/daf37ef3-2df4-49ef-bc6b-82a6f1516199)
 ![image](https://github.com/7alexandree7/profile-dark-mode-light/assets/103005378/2a9ecd69-0866-4493-a920-b52c8b850385)
-
-
-
-<h1 align="center"> DevLinks </h1>
 
 <p> align="center"
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
