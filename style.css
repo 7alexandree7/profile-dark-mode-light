@@ -158,12 +158,17 @@ footer a {
     background-position: center center;
     position: absolute;
     z-index: 1;
-    right: 0;
+    left: 0;
     top: 50%;
     transform: translateY(-50%);
     cursor: pointer;
+    animation: slide-out 0.4s;
 }
 
+
+#switch button:hover {
+    outline: 8px solid var(--hight-color);
+}
 
 #switch span {
     height: 24px;
@@ -179,8 +184,7 @@ footer a {
 
 
 .light #switch button {
-    left: 0;
-    right: initial;
+    animation: slide-in 0.4s forwards;
 }
 
 
@@ -188,5 +192,28 @@ footer a {
 @media screen and (min-width: 900px)  {
     body {
         background-image: var(--bg-url-pc);
+    }
+}
+
+
+
+@keyframes slide-in {
+    from {
+        left: 0;
+    }
+
+    to {
+        left: 50%;
+    }
+}
+
+
+@keyframes slide-out {
+    from {
+        left: 50%;
+    }
+
+    to {
+        left: 0;
     }
 }
